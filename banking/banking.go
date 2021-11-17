@@ -1,7 +1,7 @@
 package banking
 
-//BankAccount struct
-type BankAccount struct {
+//Account struct
+type Account struct {
 	Customer string
 	Balance  int
 }
